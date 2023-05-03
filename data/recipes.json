@@ -1,0 +1,363 @@
+[
+    {
+      "recipe_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "1",
+      "recipe_name": "Chicken Tikka Masala",
+      "ingredients":"1.Chicken 2.Yogurt 3.Garam 4.Masala 5.Ginger 6.Garlic 7.Tomatoes 8.Cream 9.Cilantro",
+      "methodOfCooking": "1. Mix yogurt, garam masala, ginger and garlic in a bowl. 2. Add chicken and marinate for at least an hour. 3. Grill chicken until cooked. 4. In a pan, cook tomatoes, garam masala and cream until it thickens. 5. Add grilled chicken to the pan and cook for a few more minutes. 6. Garnish with cilantro.",
+      "rating": 4.8,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.jpg?s=612x612&w=0&k=20&c=GhyA1lSi4uVgXvOpviBnhRwjkSrc9TifCBWI0jKh1jQ=",
+        "chef_name": "Alain Ducasse",
+        "chef_description": "Alain Ducasse is a French-born Monégasque chef who operates a number of restaurants worldwide. He has also written several cookbooks, and held multiple Michelin stars.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 200,
+        "likes": 10000
+      }
+    },
+    {
+      " recipe_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "3",
+      "recipe_name": "Mutton Biryani",
+      "ingredients":"1.Mutton 2.Basmati Rice 3.Onion 4.Tomatoes 5.Ginger 6.Garlic 7.Cumin 8.Coriander 9.Mint leaves",
+      "methodOfCooking": "1. Marinate mutton with yogurt, cumin, coriander, ginger and garlic. 2. Fry onions until brown and add tomatoes. 3. Add marinated mutton and cook for 10-15 minutes. 4. Layer rice and mutton in a pot, with mint leaves in between. 5. Cover and cook for 20-30 minutes on low flame. 6. Serve hot.",
+      "rating": 4.9,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1136639555/photo/new-skills-two-chef-assistants-cooking-a-new-dish-in-a-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=ybDECenRWxYPeoKdeKcbcRwSKYZ01UlStS9oQ-p6_lY=",
+        "chef_name": "Julia Child",
+        "chef_description": "Julia Child was an American chef who popularized French cuisine in the United States through her cookbook Mastering the Art of French Cooking  and her television show The French Chef.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 100,
+        "likes": 5000
+      }
+    },
+    {
+      "recipe_id": "f69a695f037cd9484cecaea37ca71011",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "5",
+      "recipe_name": "Palak Paneer",
+      "ingredients": "1.Paneer 2.Spinach 3.Tomatoes 4.Onion 5.Garlic 6.Ginger 7.Garam Masala 9.Cream",
+      "methodOfCooking": "1. Blanch spinach and blend with ginger and garlic. 2. Fry onions and add garam masala. 3. Add chopped tomatoes and cook for 5 minutes. 4. Add the spinach mixture and cook for another 5 minutes. 5. Add cubed paneer and cream and cook for a few more minutes. 6. Serve hot.",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/664222320/photo/cooking-with-trainee.jpg?s=612x612&w=0&k=20&c=rnXf0bauPfpe_gxcQP2L9Ojw8NyvK9Wqhb7zzPq3u-Q=",
+        "chef_name": "Joël Robuchon",
+        "chef_description": "Joël Robuchon was a French chef who was known for his innovative haute cuisine and his many Michelin stars. He operated restaurants all over the world, including in Paris, Tokyo, and Las Vegas.",
+        "yearsOfExperience": 4,
+        "numberOfRecipes": 60,
+        "likes": 3000
+      }
+    },
+    {
+      "recipe_id": "f69a695f037cd9484cecaea37ca71012",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "1",
+      "recipe_name": "Aloo Gobi",
+      "ingredients":"1.Potatoes 2.Cauliflower 3.Onion 4.Tomatoes 5.Ginger 6.Garlic 7.Cumin 8.Coriander",
+      "methodOfCooking": "1. Fry onions until brown and add ginger and garlic. 2. Add cumin and coriander and cook for a minute. 3. Add diced potatoes and cauliflower and cook for 10-15 minutes. 4. Add chopped tomatoes and cook for another 10-15 minutes. 5. Serve hot.",
+      "rating": 4.5,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.jpg?s=612x612&w=0&k=20&c=GhyA1lSi4uVgXvOpviBnhRwjkSrc9TifCBWI0jKh1jQ=",
+        "chef_name": "Alain Ducasse",
+        "chef_description": "Alain Ducasse is a French-born Monégasque chef who operates a number of restaurants worldwide. He has also written several cookbooks, and held multiple Michelin stars.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 200,
+        "likes": 10000
+      }
+    },
+    {
+      "recipe_id": "11468ed61aee84de492a8b04158a22f9",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "2",
+      "recipe_name": "Beef Wellington",
+      "ingredients": "1.Beef fillet 2.Puff pastry3.Mushrooms4.Prosciutto 5.English mustard 6.Egg yolk 7.Salt8.Pepper",
+      "methodOfCooking": "1. Season the beef fillet with salt and pepper. 2. Sear the beef fillet in a hot pan. 3. Spread English mustard over the beef fillet. 4. Spread the mushrooms and prosciutto over the beef fillet. 5. Wrap the beef fillet in puff pastry. 6. Brush the pastry with egg yolk. 7. Bake the Beef Wellington in the oven for 25-30 minutes. 8. Let it rest for 10 minutes before slicing and serving.",
+      "rating": 4.9,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1299738603/photo/portrait-of-handsome-man-in-kitchen.jpg?s=612x612&w=0&k=20&c=WFTnk_KGRnihKeWcCv2CZIQmqe952kfCOS6-ZFT9vaQ=",
+        "chef_name": "Paul Bocuse",
+        "chef_description": "Paul Bocuse was a French chef based in Lyon who was known for his high-quality French cuisine and his influential role in the development of nouvelle cuisine.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 150,
+        "likes": 8000
+      }
+    },
+    {
+      "recipe_id": "11468ed61aee84de492a8b04158a22f0",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "3",
+      "recipe_name": "Fish and Chips",
+      "ingredients":"1.Cod fillet 2.Potatoes 3.Flour 4.Beer 5.Baking powder 6.Salt 7.Pepper8.Lemon wedges",
+      "methodOfCooking": "1. Peel and slice the potatoes into chips. 2. Season the cod fillet with salt and pepper. 3. In a bowl, mix flour, beer, baking powder, salt and pepper to make the batter. 4. Dip the cod fillet in the batter. 5. Deep fry the fish and chips in hot oil until golden brown. 6. Serve hot with lemon wedges.",
+      "rating": 4.8,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1136639555/photo/new-skills-two-chef-assistants-cooking-a-new-dish-in-a-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=ybDECenRWxYPeoKdeKcbcRwSKYZ01UlStS9oQ-p6_lY=",
+        "chef_name": "Julia Child",
+        "chef_description": "Julia Child was an American chef who popularized French cuisine in the United States through her cookbook Mastering the Art of French Cooking  and her television show The French Chef.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 100,
+        "likes": 5000
+      }
+    },
+    {
+      "recipe_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "1",
+      "recipe_name": "Shepherd's Pie",
+      "ingredients":"1.Ground beef2.Potatoes3.Carrots4.Onion 5.Garlic6.Beef broth7.Tomato paste8.Worcestershire sauce",
+      "methodOfCooking": "1. Boil the potatoes until soft. 2. Mash the potatoes with butter and milk. 3. In a pan, cook ground beef, onions and garlic until brown. 4. Add carrots, beef broth, tomato paste and Worcestershire sauce. 5. Cook for 10-15 minutes. 6. Pour the beef mixture into a baking dish. 7. Spread the mashed potatoes on top. 8. Bake in the oven for 25-30 minutes. 9. Serve hot.",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.jpg?s=612x612&w=0&k=20&c=GhyA1lSi4uVgXvOpviBnhRwjkSrc9TifCBWI0jKh1jQ=",
+        "chef_name": "Alain Ducasse",
+        "chef_description": "Alain Ducasse is a French-born Monégasque chef who operates a number of restaurants worldwide. He has also written several cookbooks, and held multiple Michelin stars.",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 200,
+        "likes": 10000
+      }
+    },
+    {
+      "recipe_id": "a713ee936ff5574273f0f769f5c5b20e",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "2",
+      "recipe_name": "Roast Beef",
+      "ingredients": "1.Beef roast2.Garlic3.Thyme4.Rosemary5.Olive oil6.Salt7.Pepper8.Beef broth",
+      "methodOfCooking": "1. Preheat the oven to 425°F. 2. In a bowl, mix minced garlic, thyme, rosemary, olive oil, salt and pepper. 3. Rub the mixture over the beef roast. 4. Place the beef roast on a rack in a roasting pan. 5. Pour beef broth into the pan. 6. Roast in the oven for 25 minutes. 7. Lower the oven temperature to 350°F and roast for another 25-30 minutes. 8. Let the roast beef rest for 10-15 minutes before slicing and serving.",
+      "rating": 4.6,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1299738603/photo/portrait-of-handsome-man-in-kitchen.jpg?s=612x612&w=0&k=20&c=WFTnk_KGRnihKeWcCv2CZIQmqe952kfCOS6-ZFT9vaQ=",
+        "chef_name": "Paul Bocuse",
+        "chef_description": "Paul Bocuse was a French chef based in Lyon who was known for his high-quality French cuisine and his influential role in the development of nouvelle cuisine.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 150,
+        "likes": 8000
+      }
+    },
+    {
+      "recipe_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "6",
+      "recipe_name": "Pesto alla Genovese",
+      "ingredients": "1.Basil leaves 2.Pine nuts 3.Garlis 4.Parmesan cheese 5.Olive oil6.Salt ",
+      "methodOfCooking": "1. Place the basil leaves, pine nuts, garlic, and Parmesan cheese in a food processor and pulse until finely chopped. 2. With the food processor running, slowly drizzle in the olive oil until a smooth paste forms. 3. Season with salt to taste.",
+      "rating": 4.8,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/454127053/photo/chef-working.jpg?s=612x612&w=0&k=20&c=O1T0gWQNm2YzEaJcd-X8-y_hX7lNq08r4OT1XdIzUKI=",
+        "chef_name": "Anne-Sophie Pic",
+        "chef_description": "Anne-Sophie Pic is a French chef who is known for being the fourth female chef ever to hold three Michelin stars. She operates several restaurants in France and is known for her innovative use of flavors and textures.",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 120,
+        "likes": 6000
+      }
+    },
+    {
+      "recipe_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "3",
+      "recipe_name": "Spaghetti Carbonara",
+      "ingredients":"1.Spaghetti 2.Pancetta 3.Eggs 4.Pecorino Romano cheese5.Black pepper 6.Salt",
+      "methodOfCooking": "1. Cook the spaghetti in a large pot of boiling salted water until al dente. 2. Meanwhile, cook the pancetta in a large skillet over medium heat until crisp. 3. In a medium bowl, whisk together the eggs, Pecorino Romano cheese, and black pepper. 4. When the spaghetti is cooked, reserve 1 cup of the cooking water and drain the spaghetti. 5. Add the spaghetti and reserved cooking water to the skillet with the pancetta and toss to combine. 6. Remove from the heat and immediately add the egg mixture, tossing to coat the spaghetti evenly. 7. Season with salt to taste and serve.",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1136639555/photo/new-skills-two-chef-assistants-cooking-a-new-dish-in-a-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=ybDECenRWxYPeoKdeKcbcRwSKYZ01UlStS9oQ-p6_lY=",
+        "chef_name": "Julia Child",
+        "chef_description": "Julia Child was an American chef who popularized French cuisine in the United States through her cookbook Mastering the Art of French Cooking  and her television show The French Chef.",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 100,
+        "likes": 5000
+      }
+    },
+    {
+      "recipe_id": "f06f8cc035b04bd1158e4198281915a3",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "4",
+      "recipe_name": "Osso Buco",
+      "ingredients":"1.Veal shanks  2.Carrots 3.Celery 4.Onion 5.Tomato paste 6.White wine 7.Beef broth 8.Garlic 9.Thyme 10.Rosemary 11.Bay leaves 12.Salt 13.Pepper",
+      "methodOfCooking": "1. Preheat the oven to 350°F. 2. Season the veal shanks with salt and pepper. 3. Heat a large Dutch oven over medium-high heat and add a little oil. 4. Sear the veal shanks on both sides until golden brown, then remove and set aside. 5. Add the carrots, celery, and onion to the Dutch oven and sauté until softened. 6. Add the tomato paste and stir to combine. 7. Add the white wine and beef broth and bring to a simmer. 8. Add the garlic, thyme, rosemary, and bay leaves. 9. Return the veal shanks to the Dutch oven and cover with a tight-fitting lid. 10. Transfer to the oven and braise for 2-3 hours, until the meat is tender and falling off the bone. 11. Serve with a spoonful of the braising liquid and garnish with gremolata if desired.",
+      "rating": 4.9,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1370529871/photo/chefs-hands-spraying-flour-over-the-dough.jpg?b=1&s=170667a&w=0&k=20&c=km68VBmSvHy4_VE7CIRZkV4Tj-1ZKZ_eiRG8gpaDtZA=",
+        "chef_name": "Jacques Pépin",
+        "chef_description": "Jacques Pépin is a French-born American chef who has written numerous cookbooks and hosted several cooking shows on television. He is known for his expertise in French cuisine and his focus on technique.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 80,
+        "likes": 4000
+      }
+    },
+    {
+      "recipe_id": "f06f8cc035b04bd1158e4198281915a4",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "2",
+      "recipe_name": "Soba noodles",
+      "ingredients": "1.Buckwheat flour2.Wheat flour 3.Water4.Salt5.Dipping sauce6.Scallions7.Wasabi 8.Soy sauce",
+      "methodOfCooking": "1. In a large mixing bowl, combine the buckwheat flour, wheat flour, and salt. 2. Slowly add water, mixing with a wooden spoon ",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1299738603/photo/portrait-of-handsome-man-in-kitchen.jpg?s=612x612&w=0&k=20&c=WFTnk_KGRnihKeWcCv2CZIQmqe952kfCOS6-ZFT9vaQ=",
+        "chef_name": "Paul Bocuse",
+        "chef_description": "Paul Bocuse was a French chef based in Lyon who was known for his high-quality French cuisine and his influential role in the development of nouvelle cuisine.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 150,
+        "likes": 8000
+      }
+    },
+    {
+      "recipe_id": "cd2b53655737cc4077542baea9f8f75d",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "6",
+      "recipe_name": "Bangers and Mash",
+      "ingredients": "1.Sausages 2.Potatoes 3.Onion 4.Butter 5.Flour 6.Beef broth7.Milk  8.Mustard",
+      "methodOfCooking": "1. Boil potatoes until soft and mash with butter and milk. 2. Fry sausages until browned on all sides. 3. In the same pan, cook sliced onions until softened. 4. Add flour and cook for 1-2 minutes. 5. Gradually add beef broth and stir until the mixture thickens. 6. Stir in mustard. 7. Serve sausages with mashed potatoes and onion gravy.",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/454127053/photo/chef-working.jpg?s=612x612&w=0&k=20&c=O1T0gWQNm2YzEaJcd-X8-y_hX7lNq08r4OT1XdIzUKI=",
+        "chef_name": "Anne-Sophie Pic",
+        "chef_description": "Anne-Sophie Pic is a French chef who is known for being the fourth female chef ever to hold three Michelin stars. She operates several restaurants in France and is known for her innovative use of flavors and textures.",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 120,
+        "likes": 6000
+      }
+    },
+    {
+      "recipe_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "5",
+      "recipe_name": "Steak and Kidney Pie",
+      "ingredients":"1.Beef steak2.Kidney 3.Onion 4.Carrot 5.Beef broth 6.Flour 7.Butter 8.Puff pastry",
+      "methodOfCooking": "1. Cut beef steak and kidney into bite-sized pieces. 2. Fry beef and kidney until browned on all sides. 3. Add chopped onion and carrot and cook until softened. 4. Add beef broth and simmer for 20-25 minutes. 5. Make a roux with flour and butter. 6. Add the roux to the beef mixture and stir until the mixture thickens. 7. Pour the mixture into a baking dish and top with puff pastry. 8. Bake in the oven for 25-30 minutes or until the pastry is golden brown.",
+      "rating": 4.6,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/664222320/photo/cooking-with-trainee.jpg?s=612x612&w=0&k=20&c=rnXf0bauPfpe_gxcQP2L9Ojw8NyvK9Wqhb7zzPq3u-Q=",
+        "chef_name": "Joël Robuchon",
+        "chef_description": "Joël Robuchon was a French chef who was known for his innovative haute cuisine and his many Michelin stars. He operated restaurants all over the world, including in Paris, Tokyo, and Las Vegas.",
+        "yearsOfExperience": 4,
+        "numberOfRecipes": 60,
+        "likes": 3000
+      }
+    },
+    {
+      "recipe_id": "7c4dfea0fafddc813673282a428429b7",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "4",
+      "recipe_name": "Pad Thai",
+      "ingredients": "1.Rice noodles 2.Shrimp 3.Tofu 4.Bean sprouts 5.Eggs 6.Garlic 7.Tamarind paste 8.Fish sauce",
+      "methodOfCooking": "1. Soak rice noodles in warm water until softened. 2. Fry shrimp and tofu until cooked. 3. Add chopped garlic and stir until fragrant. 4. Push everything to the side and crack two eggs into the pan. 5. Scramble the eggs and mix everything together. 6. Add soaked noodles, tamarind paste, and fish sauce. 7. Stir until everything is combined. 8. Add bean sprouts and cook for another 1-2 minutes. 9. Serve with lime wedges and crushed peanuts.",
+      "rating": 4.6,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1370529871/photo/chefs-hands-spraying-flour-over-the-dough.jpg?b=1&s=170667a&w=0&k=20&c=km68VBmSvHy4_VE7CIRZkV4Tj-1ZKZ_eiRG8gpaDtZA=",
+        "chef_name": "Jacques Pépin",
+        "chef_description": "Jacques Pépin is a French-born American chef who has written numerous cookbooks and hosted several cooking shows on television. He is known for his expertise in French cuisine and his focus on technique.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 80,
+        "likes": 4000
+      }
+    },
+    {
+      "recipe_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "5",
+      "recipe_name": "Shrimp Scampi",
+      "ingredients": "1.shrim 2.garlic 3.butter 4.lemon" ,
+      "methodOfCooking": "1. Cook spaghetti and keep aside. 2. Heat butter in a pan. 3. Add garlic and fry for 1 minute. 4. Add shrimp and cook for 5-7 minutes. 5. Add lemon juice and cook for 1 minute. 6. Serve over spaghetti.",
+      "rating": 4.7,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/664222320/photo/cooking-with-trainee.jpg?s=612x612&w=0&k=20&c=rnXf0bauPfpe_gxcQP2L9Ojw8NyvK9Wqhb7zzPq3u-Q=",
+        "chef_name": "Joël Robuchon",
+        "chef_description": "Joël Robuchon was a French chef who was known for his innovative haute cuisine and his many Michelin stars. He operated restaurants all over the world, including in Paris, Tokyo, and Las Vegas.",
+        "yearsOfExperience": 4,
+        "numberOfRecipes": 60,
+        "likes": 3000
+      }
+    },
+    {
+      "recipe_id": "df11ff9feefc37613cc3a4486ce02151",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "6",
+      "recipe_name": "Beef Stroganoff",
+      "ingredients":"1.beef 2.mushroom 3.sour cream 4.onion",
+      "methodOfCooking": "1. Heat oil in a pan. 2. Add diced onion and fry until golden. 3. Add sliced mushroom and fry for 5-7 minutes. 4. Add sliced beef and cook for 5-7 minutes. 5. Add sour cream and cook for 2-3 minutes. 6. Serve hot.",
+      "rating": 4.3,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/454127053/photo/chef-working.jpg?s=612x612&w=0&k=20&c=O1T0gWQNm2YzEaJcd-X8-y_hX7lNq08r4OT1XdIzUKI=",
+        "chef_name": "Anne-Sophie Pic",
+        "chef_description": "Anne-Sophie Pic is a French chef who is known for being the fourth female chef ever to hold three Michelin stars. She operates several restaurants in France and is known for her innovative use of flavors and textures.",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 120,
+        "likes": 6000
+      }
+    },
+    {
+      "recipe_id": "919db97c34e0778b387dd40cdfa08130",
+      "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+      },
+      "chef_id": "4",
+      "recipe_name": "Spicy Chicken Curry",
+      "ingredients":"1.chicken 2.onion 3.tomato 4.spices"
+      ,
+      "methodOfCooking": "1. Heat oil in a pan. 2. Add chopped onion and fry until golden. 3. Add diced chicken and cook for 5-7 minutes. 4. Add chopped tomato and spices. 5. Cook for 15-20 minutes. Serve hot.",
+      "rating": 4.5,
+      "author": {
+        "chefPicture": "https://media.istockphoto.com/id/1370529871/photo/chefs-hands-spraying-flour-over-the-dough.jpg?b=1&s=170667a&w=0&k=20&c=km68VBmSvHy4_VE7CIRZkV4Tj-1ZKZ_eiRG8gpaDtZA=",
+        "chef_name": "Jacques Pépin",
+        "chef_description": "Jacques Pépin is a French-born American chef who has written numerous cookbooks and hosted several cooking shows on television. He is known for his expertise in French cuisine and his focus on technique.",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 80,
+        "likes": 4000
+      }
+    }
+  ]
