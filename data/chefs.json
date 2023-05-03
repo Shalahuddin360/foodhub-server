@@ -1,0 +1,56 @@
+[
+  {
+    "chef_id": "1",
+    "chefPicture": "https://media.istockphoto.com/id/960597260/photo/the-restaurant-is-always-full.jpg?s=612x612&w=0&k=20&c=GhyA1lSi4uVgXvOpviBnhRwjkSrc9TifCBWI0jKh1jQ=",
+    "chef_name": "Alain Ducasse",
+    "chef_description": "Alain Ducasse is a French-born Monégasque chef who operates a number of restaurants worldwide. He has also written several cookbooks, and held multiple Michelin stars.",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 200,
+    "likes": 10000
+  },
+  {
+    "chef_id": "2",
+    "chefPicture": "https://media.istockphoto.com/id/1299738603/photo/portrait-of-handsome-man-in-kitchen.jpg?s=612x612&w=0&k=20&c=WFTnk_KGRnihKeWcCv2CZIQmqe952kfCOS6-ZFT9vaQ=",
+    "chef_name": "Paul Bocuse",
+    "chef_description": "Paul Bocuse was a French chef based in Lyon who was known for his high-quality French cuisine and his influential role in the development of nouvelle cuisine.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 150,
+    "likes": 8000
+  },
+  {
+    "chef_id": "3",
+    "chefPicture": "https://media.istockphoto.com/id/1136639555/photo/new-skills-two-chef-assistants-cooking-a-new-dish-in-a-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=ybDECenRWxYPeoKdeKcbcRwSKYZ01UlStS9oQ-p6_lY=",
+    "chef_name": "Julia Child",
+    "chef_description": "Julia Child was an American chef who popularized French cuisine in the United States through her cookbook Mastering the Art of French Cooking  and her television show The French Chef.",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 100,
+    "likes": 5000
+  },
+  {
+    "chef_id": "4",
+    "chefPicture": "https://media.istockphoto.com/id/1370529871/photo/chefs-hands-spraying-flour-over-the-dough.jpg?b=1&s=170667a&w=0&k=20&c=km68VBmSvHy4_VE7CIRZkV4Tj-1ZKZ_eiRG8gpaDtZA=",
+    "chef_name": "Jacques Pépin",
+    "chef_description": "Jacques Pépin is a French-born American chef who has written numerous cookbooks and hosted several cooking shows on television. He is known for his expertise in French cuisine and his focus on technique.",
+    "yearsOfExperience": 10,
+    "numberOfRecipes": 80,
+    "likes": 4000
+  },
+  {
+    "chef_id": "5",
+    "chefPicture": "https://media.istockphoto.com/id/664222320/photo/cooking-with-trainee.jpg?s=612x612&w=0&k=20&c=rnXf0bauPfpe_gxcQP2L9Ojw8NyvK9Wqhb7zzPq3u-Q=",
+    "chef_name": "Joël Robuchon",
+    "chef_description": "Joël Robuchon was a French chef who was known for his innovative haute cuisine and his many Michelin stars. He operated restaurants all over the world, including in Paris, Tokyo, and Las Vegas.",
+    "yearsOfExperience": 4,
+    "numberOfRecipes": 60,
+    "likes": 3000
+  },
+  {
+    "chef_id": "6",
+    "chefPicture": "https://media.istockphoto.com/id/454127053/photo/chef-working.jpg?s=612x612&w=0&k=20&c=O1T0gWQNm2YzEaJcd-X8-y_hX7lNq08r4OT1XdIzUKI=",
+    "chef_name": "Anne-Sophie Pic",
+    "chef_description": "Anne-Sophie Pic is a French chef who is known for being the fourth female chef ever to hold three Michelin stars. She operates several restaurants in France and is known for her innovative use of flavors and textures.",
+    "yearsOfExperience": 7,
+    "numberOfRecipes": 120,
+    "likes": 6000
+  }
+]
