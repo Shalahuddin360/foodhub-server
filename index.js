@@ -23,13 +23,13 @@ app.get('/recipes/:id', (req, res) => {
   res.send(selectedRecipe)
 })
 app.get('/chef/:id', (req, res) => {
-  const id = parseInt(req.params.id);
+   const id = parseInt(req.params.id);
    if (id === 0) {
-    res.send(recipes)
+   res.send(recipes)
   }
   else {
     const chefRecipes = recipes.filter(r => parseInt(r.chef_id) === id);
-    res.send(chefRecipes)
+     res.send(chefRecipes)
   }
 
 })
